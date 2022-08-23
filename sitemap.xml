@@ -2,12 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.xiaomie.ltd/post/demo2/</loc>
+    <lastmod>2022-08-23T18:12:35+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xiaomie.ltd/post/</loc>
+    <lastmod>2022-08-23T18:12:35+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xiaomie.ltd/</loc>
+    <lastmod>2022-08-23T18:12:35+08:00</lastmod>
+  </url><url>
     <loc>https://blog.xiaomie.ltd/categories/</loc>
   </url><url>
     <loc>https://blog.xiaomie.ltd/series/</loc>
   </url><url>
     <loc>https://blog.xiaomie.ltd/tags/</loc>
-  </url><url>
-    <loc>https://blog.xiaomie.ltd/</loc>
   </url>
 </urlset>

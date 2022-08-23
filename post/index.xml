@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Website of xiaomie</title>
-    <link>https://blog.xiaomie.ltd/</link>
-    <description>Recent content on Website of xiaomie</description>
+    <title>Posts on Website of xiaomie</title>
+    <link>https://blog.xiaomie.ltd/post/</link>
+    <description>Recent content in Posts on Website of xiaomie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Aug 2022 18:12:35 +0800</lastBuildDate><atom:link href="https://blog.xiaomie.ltd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Aug 2022 18:12:35 +0800</lastBuildDate><atom:link href="https://blog.xiaomie.ltd/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Demo2</title>
       <link>https://blog.xiaomie.ltd/post/demo2/</link>
